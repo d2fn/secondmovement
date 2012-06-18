@@ -1,6 +1,8 @@
 # Second Movement #
 
-If you can make it past my cold geek stare, videos are posted here. No other details at the moment.
+An experiement in using movement to create music with visual feedback in C++
 
-* http://vimeo.com/7880483
-* http://vimeo.com/6373420
+Read the blog post here: http://d2fn.com/2009/09/01/second-movement.html
+
+* http://vimeo.com/d2fn/secondmovement
+* http://vimeo.com/d2fn/thirdmovement
